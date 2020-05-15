@@ -1,7 +1,8 @@
 # Welcome to Portofolio
 
-##Church website
+## Church website
 - This project was created for an NPO based in Lier Belgium.
+
 [link to NPO website](http://bbpoartacerului.be/)
 
 ## Freelancer photograf blog
@@ -10,9 +11,9 @@
 [link to freelancer photograph]()
 
 ### Suppport or Contact
-**Phone:(+32)465741779
-Email: _brb_end1@yahoo.com_**
-**Bold** and _Italic_ and `Code` text
+- **Phone:(+32)465741779**
+- ** Email: _brb_end1@yahoo.com_**
+
 
 
 
