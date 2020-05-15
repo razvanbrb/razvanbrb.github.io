@@ -7,7 +7,7 @@
 ## Freelancer photograf blog
 - This project is a project made for a very special person. She is a freelancer photograph based in Sturgart Germany.
 
-[link to freelancer photograf]()
+[link to freelancer photograph]()
 
 ### Suppport or Contact
 **Phone:(+32)465741779
