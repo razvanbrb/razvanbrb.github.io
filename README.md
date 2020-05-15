@@ -7,6 +7,8 @@ My name is Razvan. I'm from Romania. I love Belgium chocolate , like to read a l
 - My favorite color is green. 
 - My favorite quotes" The meaning of life is to give life a meaning" and " Hope for the best,  Preapared for the worst, and expect the unexpected".
 
+- I am very passionate about how internet works and like to code and to create.
+
 ![1977436_10201669959291885_1491735410_n](https://user-images.githubusercontent.com/22944865/81944503-23e9a280-95fd-11ea-9633-a1aa8c1dfd0f.jpg)
 
 
