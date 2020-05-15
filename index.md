@@ -11,8 +11,8 @@
 [link to freelancer photograph](https://shimonaphotography.wordpress.com/)
 
 ### Suppport or Contact
-- **Phone:(+32)465741779**
-- ** Email: _brb_end1@yahoo.com_**
+ **Phone:(+32)465741779**
+ ** Email: _brb_end1@yahoo.com_**
 
 
 
