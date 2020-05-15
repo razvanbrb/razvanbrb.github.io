@@ -3,18 +3,15 @@
 ## Church website
 - This project was created for an NPO based in Lier Belgium.
 
-[link to NPO website](http://bbpoartacerului.be/)
+    [Link to NPO website](http://bbpoartacerului.be/)
 
-## Freelancer photograf blog
+## Freelancer photograph blog
+
 - This project is a project made for a very special person. She is a freelancer photograph based in Sturgart Germany.
 
-[link to freelancer photograph](https://shimonaphotography.wordpress.com/)
+    [Link to freelancer photograph](https://shimonaphotography.wordpress.com/)
 
-### Suppport or Contact
+### Support or Contact
  **Phone:(+32)465741779**
- ** Email: _brb_end1@yahoo.com_**
-
-
-
-
-
+ 
+ **Email: _brb_end1@yahoo.com_**
